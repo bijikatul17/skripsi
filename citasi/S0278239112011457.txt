@@ -1,0 +1,17 @@
+Gregory S. Antonarakis, Panagiotis Christou,
+Quantitative Evaluation of Neurosensory Disturbance After Bilateral Sagittal Split Osteotomy Using Semmes-Weinstein Monofilaments: A Systematic Review,
+Journal of Oral and Maxillofacial Surgery,
+Volume 70, Issue 12,
+2012,
+Pages 2752-2760,
+ISSN 0278-2391,
+https://doi.org/10.1016/j.joms.2012.08.002.
+(https://www.sciencedirect.com/science/article/pii/S0278239112011457)
+Abstract: Purpose
+To evaluate neurosensory disturbance of the inferior alveolar nerve, after bilateral sagittal split osteotomy, from before surgery to 1 year postoperatively, by quantitatively evaluating published data using Semmes-Weinstein monofilaments.
+Materials and Methods
+A literature search was conducted by use of PubMed, EMBASE, Scopus, Web of Science, CINAHL (Cumulative Index to Nursing and Allied Health Literature), and the Cochrane Library in June 2012. The related citations function in PubMed, reference lists, and authors' names were used to expand the search. From each included study, study and sample characteristics were extracted, as were results. The main outcome was the lightest pressure the patient could discern at 1 month and at 1 year after the osteotomy procedure, in comparison with before surgery.
+Results
+Of the 3,107 articles initially identified, 7 were chosen according to the preset inclusion and exclusion criteria. The results from the studies could not be combined for the purpose of a meta-analysis because of the lack of standardization. Only 2 studies provided data that allowed an estimation of average detectable applied force to be carried out. Before surgery, the lowest detectable threshold corresponded to a mean of 0.07 to 0.16 g. At 1 month after surgery, the lowest detectable threshold averaged 6 g, and at 1 year after surgery, the mean value was 0.16 to 0.4 g.
+Conclusions
+After bilateral sagittal split osteotomy, at 1 month after surgery, the sensory threshold increases approximately 35- to 85-fold compared with the presurgery threshold. Within 1 year, the threshold normally decreases almost to presurgery levels, representing 96% to 98% sensory recovery. Studies should aim to quantitatively use the Semmes-Weinstein monofilament method and standardize the presentation of results.
