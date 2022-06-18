@@ -1,0 +1,8 @@
+1. hitung total transaksi bulanan dengan (SESAR)
+2. data forecast dengan error terkecil di ambil
+, lalu di hitung persediaan permintaan dengan (EOQ)
+3. data forecast di bagi 3 / 2 kategori lalu di, 
+hitung masing-masing (EOQ)nya 
+4. setelah dapat EOQ nya tempat dapat menentukan
+seberapa besar biaya yang harus di eluarkan secara
+efisien
